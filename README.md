@@ -18,9 +18,8 @@ I am a passionate Data Scientist, Data Analyst, Computer Vision Researcher, and 
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/jaycobson)
-- [Twitter](https://twitter.com/jaycobson)
-- [Kaggle](https://www.kaggle.com/jaycobson)
+- [LinkedIn](https://www.linkedin.com/in/ojumubolarinwa)
+- [Kaggle](https://www.kaggle.com/jaycobson51)
 
 ## 📈 GitHub Stats
 
