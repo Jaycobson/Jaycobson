@@ -5,7 +5,6 @@ I am a passionate Data Scientist, Data Analyst, Computer Vision Researcher, and 
 
 - 🌐 **Website:** [www.github.com/jaycobson](https://www.github.com/jaycobson)
 - 📧 **Email:** [ojumubolarin@gmail.com](mailto:ojumubolarin@gmail.com)
-- LinkedIn 
 - 📞 **Phone:** +2349099915423
 
 ## 💼 Skills & Expertise
